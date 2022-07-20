@@ -1,0 +1,6 @@
+.transform{
+    height: 100px;
+    width: 400px;
+    border: 1px solid red;
+    transform: rotate(270deg);
+}
