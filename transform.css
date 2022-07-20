@@ -3,4 +3,13 @@
     width: 400px;
     border: 1px solid red;
     transform: rotate(270deg);
+    opacity: 80%;
+}
+.trans{
+    height: 100px;
+    width: 400px;
+    border: 1px solid red;
+    transform: translate(360deg);
+    opacity: 80%;
+    line-height: 500%;
 }
