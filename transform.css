@@ -13,3 +13,9 @@
     opacity: 80%;
     line-height: 500%;
 }
+.trans1{
+    height: 100px;
+    width: 400px;
+    border: 1px solid red;
+    transform: scaleX(2);
+}
